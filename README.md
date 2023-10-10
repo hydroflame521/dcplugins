@@ -1,11 +1,4 @@
-# `Aliucord Plugin Repo Template`
-
-Template for an [Aliucord](https://github.com/Aliucord) plugin repo
-
-⚠️ Make sure you check "Include all branches" when using this template
-
- 
-## Getting started with writing your first plugin
+# `Bad plugins`
 
 This template includes 2 example plugins demonstrating commands and patches which you can find in the ExamplePlugins folder.
 
